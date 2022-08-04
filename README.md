@@ -2,6 +2,10 @@
 
 ![](./Reverse%20Proxy%20Server.png)
 
+1. [AWS 설정 방법](./aws.set.md)
+    1. [Nginx Install 시 ...](./nginx.install.md)
+    2. [Nginx Start 시 ...](./nginx.start.md)
+
 ## References
 
 - Bad / [Nginx를 리버스 프록시로 사용해보자 (EC2 + Nginx + express)](https://darrengwon.tistory.com/546)

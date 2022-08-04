@@ -1,3 +1,5 @@
+[< 뒤로가기](./README.md)
+
 `sudo apt-get install nginx` 이후에 `sudo service ngnix start` 를 실행했을 때, 다음과 같은 메세지가 떳습니다.
 
 ```cmd

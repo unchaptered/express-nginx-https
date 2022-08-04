@@ -1,3 +1,5 @@
+[< 뒤로가기](./README.md)
+
 `sudo apt-get install nginx` 입력 시, 다음과 같이 추가 패키치 설치 안내문이 나왔습니다.
 
 ```cmd

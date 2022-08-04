@@ -2,6 +2,8 @@
 
 ![](./Reverse%20Proxy%20Server.png)
 
+## References
+
 - Bad / [Nginx를 리버스 프록시로 사용해보자 (EC2 + Nginx + express)](https://darrengwon.tistory.com/546)
 - Reverse Proxy / [⭐ AWS와 Ubuntu로 nginx reverse-proxy와 pm2로 nodejs 무중단 서비스 만들기](https://velog.io/@pinot/AWS-Ubuntu%EB%A1%9C-nginx-reverse-proxy-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - Reverse Proxy + https(TLS) / [⭐⭐ AWS EC2 + NginX + Nodejs Express](https://junojunho.com/front-end/aws-nginx-express)

@@ -1,6 +1,8 @@
 # Express-Nginx
 
-Nginx ` /etc/nginx/sites-enabled/default` 파일 내용 예시 `nginx.conf` 보기 [link](./nginx.conf)
+> 원본 : Nginx `/etc/nginx/sites-enabled/default` 파일 내용 예시 `nginx.conf` 보기 [link](./nginx.conf)
+
+Nginx `/etc/nginx` 파일 내용 예시 `nginx.conf` 보기 [link](./nginx.conf)
 
 ![](./Logic.png)
 

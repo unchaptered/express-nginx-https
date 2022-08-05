@@ -11,9 +11,10 @@ Nginx ` /etc/nginx/sites-enabled/default` 파일 내용 예시 `nginx.conf` 보�
 
 ![](./Reverse%20Proxy%20Server.png)
 
-1. [AWS 설정 방법](./aws.set.md)
+1. [AWS sudo 환경 설정](./aws.set.md)
     1. [Nginx Install 시 ...](./nginx.install.md)
     2. [Nginx Start 시 ...](./nginx.start.md)
+2. [AWS 보안 그룹 설정](./aws.security.md)
 
 ### References
 

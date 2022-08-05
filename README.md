@@ -6,6 +6,8 @@ Nginx `/ect/nginx` 파일 내용 예시 `nginx.conf` 보기 [link](./nginx.conf)
 
 Ngxinx 를 사용하기 위해서 _sudo 환경 설정_ 및 _보안 그룹 설정_ 이 필요하시면, [자세히 보기](./origin/README.md) 를 확인해주세요.
 
+1. [AWS sudo 환경 설정](./aws.set.md)
+
 ### 🔧 HTTPS, SSL
 
 SSL 인증 기능이 들어간 프롵토콜 통신 방식을 `HTTP 2.0`, `HTTPS` 라고 부릅니다.

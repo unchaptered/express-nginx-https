@@ -2,6 +2,8 @@
 
 Nginx `/ect/nginx` 파일 내용 예시 `nginx.conf` 보기 [link](./nginx.conf)
 
+![](./Logic.png)
+
 ### ✅ Nginx, and Reversy Proxy
 
 Ngxinx 를 사용하기 위해서 _sudo 환경 설정_ 및 _보안 그룹 설정_ 이 필요하시면, [자세히 보기](./origin/README.md) 를 확인해주세요.

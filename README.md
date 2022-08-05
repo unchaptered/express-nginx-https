@@ -1,5 +1,10 @@
 # Express-Nginx
 
+Nginx ` /etc/nginx/sites-enabled/default` 파일 내용 예시 `nginx.conf` 보기 [link](./nginx.conf)
+
+1. [Nginx 란?, ENG](https://gist.github.com/unchaptered/d534826205517bf1e08311df57e02d66)
+2. [Revers Proxy란?, ENG](https://gist.github.com/unchaptered/b13ace153fc948dbbf43d865fbe7766c)
+
 ![](./Reverse%20Proxy%20Server.png)
 
 1. [AWS 설정 방법](./aws.set.md)

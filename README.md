@@ -51,13 +51,35 @@
 <hr>
 <br>
 
+### ✔ 진행 절차
+
+_✔ 참고 자료_ 3 ~ 6 순서로 진행하시면 됩니다.
+
+0. 참고자료 1 ~ 2 로 진행 시 발생했던 에러
+    1. [Nginx Exit Error ](./error/1.nginx.exit.error.md)
+    2. [Nginx Bypass Error](./error/2.nginx.bypass.error.md)
+
+1. 참고자료 3 ~ 5 로 진행 시 발생했던 에러
+    1. [Nginx Setup](./error/3.nginx.setup.md)
+    2. [Nginx Certbot](./error/4.nginx.curtbot.md)
+    3. [Nginx Bypass](./error/5.nginx.bypass.md)
+
+2. `ubuntu` 폴더 안의 주요 파일의 위치와 목적
+    1. [Nginx 파일정리](./docs/nginx%20%ED%8C%8C%EC%9D%BC%EC%A0%95%EB%A6%AC.md)
+
+<br>
+<hr>
+<br>
+
 ### ✔ 참고 자료
 
 Nginx 를 사용하기 위해서 참고한 _관련 참고 자료_ 가 필요하시면, [자세히 보기](./origin/README.md) 를 확인해주세요.
 
+본 프로젝트에서는 ✔ 체크 된 항목을 기준으로 진행했습니다.
+
 1. [KOR, [Nginx] SSL 설정(HTTPS 적용), KOR](https://narup.tistory.com/240#--%--nginx-conf)
 2. [KOR, how_to_set_https_by_using_nginx.md, KOR](https://gist.github.com/woorim960/dda0bc85599f61a025bb8ac471dfaf7a)
-3. [ENG, How To Install Nginx on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-22-04#step-5-%E2%80%93-setting-up-server-blocks-(recommended))
-4. [ENG, How To Secure Nginx with Let's Encrypt on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-22-04)
-5. [ENG, How to Remove (Delete) Symbolic Links in Linux](https://linuxize.com/post/how-to-remove-symbolic-links-in-linux/#:~:text=To%20remove%20a%20symbolic%20link,the%20symlink%20as%20an%20argument.)
-6. [KOR, nginx HTTP 로 들어오면 강제로 HTTPS 로 전환하도록 설정하기(force redirect to SSL)](https://www.lesstif.com/system-admin/nginx-http-https-force-redirect-to-ssl-113344694.html)
+3. [✔ ENG, How To Install Nginx on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-22-04#step-5-%E2%80%93-setting-up-server-blocks-(recommended))
+4. [✔ ENG, How To Secure Nginx with Let's Encrypt on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-22-04)
+5. [✔ ENG, How to Remove (Delete) Symbolic Links in Linux](https://linuxize.com/post/how-to-remove-symbolic-links-in-linux/#:~:text=To%20remove%20a%20symbolic%20link,the%20symlink%20as%20an%20argument.)
+6. [✔ KOR, nginx HTTP 로 들어오면 강제로 HTTPS 로 전환하도록 설정하기(force redirect to SSL)](https://www.lesstif.com/system-admin/nginx-http-https-force-redirect-to-ssl-113344694.html)
